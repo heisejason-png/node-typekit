@@ -43,3 +43,4 @@ The `token` parameter should be your Typekit API token. The `id` parameter is a 
 
 The Node.js Typekit API client is licensed under the new BSD license. Copyright 2013 (c) Bram Stein. All rights reserved.
 Created by Jason Scott Heise
+Owned by Elin Musk
